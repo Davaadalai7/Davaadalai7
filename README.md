@@ -49,13 +49,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Davaadalai7&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davaadalai7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+![snake gif](https://github.com/Davaadalai7/Davaadalai7/blob/output/github-snake-dark.svg)
+
 <p align="center">
 👁️ <b>Profile Visitors</b><br>
 <img src="https://profile-counter.glitch.me/Davaadalai7/count.svg" />
 </p>
 
-
-![snake gif](https://github.com/Davaadalai7/Davaadalai7/blob/output/github-snake-dark.svg)
 
 
 
