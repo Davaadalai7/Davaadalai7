@@ -49,5 +49,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Davaadalai7&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davaadalai7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
 **👁️ Profile Visitors**
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Davaadalai7)
+![Visitor Count](https://profile-counter.glitch.me/Davaadalai7/count.svg)
+</div>
+
+![snake gif](https://github.com/Davaadalai7/Davaadalai7/blob/output/github-snake-dark.svg)
+
+
+
