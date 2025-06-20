@@ -46,9 +46,12 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davaadalai7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&width=280" width="280" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davaadalai7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&width=280" width="280" />
-  ![](https://nirzak-streak-stats.vercel.app/?user=Davaadalai7&theme=dark&hide_border=true)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Davaadalai7&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Davaadalai7&theme=dark&hide_border=true" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davaadalai7&theme=dark&hide_border=true&layout=compact" width="400" />
 </p>
 
 
