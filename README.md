@@ -47,9 +47,11 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Davaadalai7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&width=280" width="280" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Davaadalai7&theme=dark&hide_border=true&width=280" width="280" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davaadalai7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&width=280" width="280" />
+  ![](https://nirzak-streak-stats.vercel.app/?user=Davaadalai7&theme=dark&hide_border=true)<br/>
 </p>
+
+
 
 
 ![snake gif](https://github.com/Davaadalai7/Davaadalai7/blob/output/github-snake-dark.svg)
